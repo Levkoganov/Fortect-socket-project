@@ -13,5 +13,7 @@ FRONTEND:
 3. npm start
 
 • Your chosen use case (notification feed)
+
 • Technologies used (Front: typescript, redux-toolkit, socket.io-client, bootstrap)
+
 • Technologies used (back: typescript, express, socket.io)
